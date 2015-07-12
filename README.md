@@ -11,7 +11,7 @@ PythonShare
   
   [《十大高明的Google搜索技巧》](http://www.williamlong.info/archives/728.html)by-雪影蓝风  
   
-  [《如何用好Google》](http://wordpress.lixiaolai.com/archives/992.html) by-李笑来大师    
+  [《如何用好Google》](http://wordpress.lixiaolai.com/archives/992.html) by-李笑来   
   
 
 二、学会提问
